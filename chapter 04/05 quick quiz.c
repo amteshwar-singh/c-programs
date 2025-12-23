@@ -8,7 +8,7 @@ int main() {
       {
         if (b>=10)
         {
-            printf("The value of b is %d\n",b);
+            printf(" %d\n",b);
         }
         b++;
       }
